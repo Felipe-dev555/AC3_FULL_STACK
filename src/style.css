@@ -1,0 +1,28 @@
+.titulo-article {
+    color: royalblue;
+}
+
+h1 {
+    color: black;
+    font-size: 2em;
+    margin-top: 0px;
+}
+h3 {
+    color: cadetblue;
+    font-size: medium;
+}
+div {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 0px;
+    margin-bottom: 100px;
+}
+
+footer {
+    background-color: white;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    padding: 5px;
+}
